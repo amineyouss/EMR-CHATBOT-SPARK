@@ -1,0 +1,22 @@
+import luminol
+>>> ts = {0: 0, 1: 0.5, 2: 1, 3: 1, 4: 1, 5: 0, 6: 0, 7: 0, 8: 0}
+>>> detector = luminol.anomaly_detector.AnomalyDetector(ts)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'module' object has no attribute 'anomaly_detector'
+>>> from luminol.anomaly_detector import AnomalyDetector
+>>> my_detector = AnomalyDetector(ts)
+>>> score = my_detector.get_all_scores()
+>>> for timestamp, value in score.iteritems():
+...     print(timestamp, value)
+... 
+(0, 0.0)
+(1, 0.8731282501307988)
+(2, 1.5716308502354377)
+(3, 2.1363368633427995)
+(4, 1.70906949067424)
+(5, 2.905418134146207)
+(6, 1.1715411093483696)
+(7, 0.9372328874786957)
+(8, 0.7497863099829566)
+

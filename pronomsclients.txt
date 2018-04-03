@@ -1,0 +1,8 @@
+client,je
+chatbot,tu
+il
+ils
+client,nous
+chatbot,vous
+ils
+elles

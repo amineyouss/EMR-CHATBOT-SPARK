@@ -1,0 +1,16 @@
+cout,le,cout,de,la,formation,est,de,8000
+coute,le,cout,de,la,formation,est,de,8000
+couter,le,cout,de,la,formation,est,de,8000
+couterait,le,cout,de,la,formation,est,de,8000
+cout,le,cout,de,la,formation,est,de,8000
+diplomes,les,diplomes,delivres,par,ynov,sont,reconnus,RNCP,vous,trouverez,plus,d'informations,sur,le,lien,suivant
+diplome,les,diplomes,delivres,par,ynov,sont,reconnus,RNCP,vous,trouverez,plus,d'informations,sur,le,lien,suivant
+alternance,les,formations,ynov,sont,accessibles,en,cycle,initial,comme,en,cycle,professionnel.Dans,ce,cas,votre,entreprise,prends,en,charge,les,frais,de,votre,scolarite.,Pour,avoir,plus,d'informations,sur,l'alternance,veuillez,contacter,la,chargee,des,relations,entreprise
+contrats
+contrat
+admission
+ecoles
+
+amine,le,velour,est,beau
+
+
