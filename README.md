@@ -14,6 +14,11 @@ J'ai le plaisir de partager avec vous ma nouvelle création. Un chatbot intellig
 Pour pouvoir utiliser ce chatbot, il faut dans un premier temps installer spark.
 installer les bibliothèques suivantes:
 
+pip install espeak
 
 run python ybot2.py
+
+***** Fonctionnalités*****
+
+Ce chatbot permet également de discuter par voix audio pour les personnes mal voyantes
 
